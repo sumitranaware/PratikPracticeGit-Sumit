@@ -14,6 +14,6 @@ print ("Hello from sumit")
 
 print("hello from Rohit");
 
-print("hello from Rohit Patil")
+
 
 
